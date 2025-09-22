@@ -7,7 +7,8 @@
 
 ### [Tema 2 Colas de prioridad y monticulos binarios](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios)  
 2.1 [Lo que cuesta sumar](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.1%20Lo%20que%20cuesta%20sumar)  
-2.2 [2.2 Unidad Curiosa de Monitorización](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.2%20Unidad%20Curiosa%20de%20Monitorización)     
+2.2 [Unidad Curiosa de Monitorización](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.2%20Unidad%20Curiosa%20de%20Monitorización)  
+2.3 [La Reina del super](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.3%20Reina%20del%20súper)      
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
