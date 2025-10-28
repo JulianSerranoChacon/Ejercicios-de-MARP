@@ -1,4 +1,3 @@
-
 /*@ <authors>
  * Julian Serrano Chacon (MARP59)
  * Nombre, apellidos y usuario del juez (TAISXXX) de los autores de la solución.
