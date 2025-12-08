@@ -12,7 +12,8 @@
 2.4 [Ordenando a los pacientes en urgencias](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.4%20Ordenando%20a%20los%20pacientes%20en%20urgencias)
 
 ### [Tema 4 Grafos no valorados](./Tema%204%20Grafos%20no%20valorados/)  
-4.1 [Arboles Libres](./Tema%204%20Grafos%20no%20valorados/4.1%20Probabilidad%20de%20arboles%20libres/)
+4.1 [Arboles Libres](./Tema%204%20Grafos%20no%20valorados/4.1%20Probabilidad%20de%20arboles%20libres/)  
+4.2 [Grafos Bipartitos](./Tema%204%20Grafos%20no%20valorados/4.2%20Grafo%20bipartito/)
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
