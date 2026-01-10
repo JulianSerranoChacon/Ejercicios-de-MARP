@@ -21,6 +21,12 @@
 4.7 [4.7 Prob-Un nodo muy muy lejano](./Tema%204%20Grafos%20no%20valorados/4.7%20Prob-Un%20nodo%20muy%20muy%20lejano/)  
 4.L [4.L Peaje a la sombra](./Tema%204%20Grafos%20no%20valorados/4.L%20Peaje%20a%20la%20sombra/)  
 
+### [Tema 5 Grafos dirigidos no valorados](./Tema%205%20Grafos%20dirigidos%20no%20valorados/)  
+5.1 [5.1 La maquina calculadora](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.1%20La%20maquina%20calculadora/)  
+5.2 [5.2 Paella los jueves](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.2%20Paella%20los%20jueves/)  
+5.3 [5.3 Ordenando tareas](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.3%20Ordenando%20tareas/)  
+
+
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
 ## Ejercicios-de-MARP COMPILER ERROR  
