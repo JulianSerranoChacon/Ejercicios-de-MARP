@@ -16,6 +16,10 @@
 4.2 [Grafos Bipartitos](./Tema%204%20Grafos%20no%20valorados/4.2%20Grafo%20bipartito/)  
 4.3 [Los amigos de mis amigos son mis amigos](./Tema%204%20Grafos%20no%20valorados/4.3%20Los%20amigos%20de%20mis%20amigos%20son%20mis%20amigos/)  
 4.4 [Detección de manchas negras](./Tema%204%20Grafos%20no%20valorados/4.4%20Deteccion%20de%20manchas%20negras/)  
+4.5 [4.5 Los numeros de Bacon](./Tema%204%20Grafos%20no%20valorados/4.5%20Los%20numeros%20de%20Bacon/)  
+4.6 [4.6 Las noticias vuelan](./Tema%204%20Grafos%20no%20valorados/4.6%20Las%20noticias%20vuelan/)  
+4.7 [4.7 Prob-Un nodo muy muy lejano](./Tema%204%20Grafos%20no%20valorados/4.7%20Prob-Un%20nodo%20muy%20muy%20lejano/)  
+4.L [4.L Peaje a la sombra](./Tema%204%20Grafos%20no%20valorados/4.L%20Peaje%20a%20la%20sombra/)  
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
