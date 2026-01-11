@@ -25,6 +25,10 @@
 5.1 [5.1 La maquina calculadora](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.1%20La%20maquina%20calculadora/)  
 5.2 [5.2 Paella los jueves](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.2%20Paella%20los%20jueves/)  
 5.3 [5.3 Ordenando tareas](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.3%20Ordenando%20tareas/)  
+5.4 [5.4 Sistema de inecuaciones](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.4%20Sistema%20de%20inecuaciones/)  
+5.5 [5.5 Juego de Transformacion Modular](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.5%20Juego%20de%20Transformacion%20Modular/)  
+5.6 [5.6 Haciendo trampas en Serpientes y Escaleras](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.6%20Haciendo%20trampas%20en%20Serpientes%20y%20Escaleras/)  
+5.L [5.L El Necronomicon de la informatica](./Tema%205%20Grafos%20dirigidos%20no%20valorados/5.L%20El%20Necronomicon%20de%20la%20informatica/)  
 
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
