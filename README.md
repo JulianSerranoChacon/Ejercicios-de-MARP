@@ -37,6 +37,14 @@
 6.4 [La autonomia de los coches](./Tema%206:%20Conjuntos%20disjuntos,%20grafos%20valorados%20y%20arboles%20de%20recubrimiento%20de%20coste%20minimo/6.4%20La%20autonomia%20de%20los%20coches/)  
 6.L [¿Donde construimos los aeropuertos?](./Tema%206:%20Conjuntos%20disjuntos,%20grafos%20valorados%20y%20arboles%20de%20recubrimiento%20de%20coste%20minimo/6.L%20Donde%20construimos%20los%20aeropuertos/)  
 
+### [Tema 7: Digrafos valorados y caminos minimos](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/)  
+7.1 [RapidEats](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.1%20RapidEats/)  
+7.2 [Navegando sin teclado](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.2%20Navegando%20sin%20teclado/)  
+7.3 [Camino al cole](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.3%20Camino%20al%20cole/)  
+7.4 [Ratones en un laberinto](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.4%20Ratones%20en%20un%20laberinto/)  
+7.5 [¿Cuál es el mejor camino?](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.5%20Cual%20es%20el%20mejor%20camino/)  
+7.L [Repartiendo paquetes](./Tema%207:%20Digrafos%20valorados%20y%20caminos%20minimos/7.L%20Repartiendo%20paquetes/)  
+
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
