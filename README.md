@@ -13,6 +13,13 @@
 2.5 [Coleccionando Comics](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.5%20Coleccionando%20comics/)  
 2.L [Las partituras de la orquesta](./Tema%202%20Colas%20de%20priorida%20y%20Monticulos%20binarios/2.L%20Las%20partituras%20de%20la%20orquesta/)  
 
+### [Tema3 Heapsort y colas de prioridad con prioridades variables](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/)  
+3.1 [Pajaros en vuelo](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/3.1%20Pajaros%20en%20vuelo/)  
+3.2 [Points go to](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/3.2%20Points%20go%20to/)  
+3.3 [Multitarea](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/3.3%20Multitarea/)  
+3.4 [Volando drones](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/3.4%20Volando%20drones/)  
+3.L [La batalla de las audiencias](./Tema%203%20Heapsort%20y%20colas%20de%20prioridad%20con%20prioridades%20variables/3.L%20La%20batalla%20de%20las%20audiencias/)  
+
 ### [Tema 4 Grafos no valorados](./Tema%204%20Grafos%20no%20valorados/)  
 4.1 [Arboles Libres](./Tema%204%20Grafos%20no%20valorados/4.1%20Probabilidad%20de%20arboles%20libres/)  
 4.2 [Grafos Bipartitos](./Tema%204%20Grafos%20no%20valorados/4.2%20Grafo%20bipartito/)  
