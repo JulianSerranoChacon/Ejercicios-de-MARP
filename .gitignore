@@ -1,3 +1,7 @@
 *.out
+*.exe
+*.pdb
+*.obj
+*.ilk
 *.vscode
 **/bin
