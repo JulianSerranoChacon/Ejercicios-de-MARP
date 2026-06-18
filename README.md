@@ -54,13 +54,24 @@
 7.5 [¿Cuál es el mejor camino?](./Tema%207%20Digrafos%20valorados%20y%20caminos%20minimos/7.5%20Cual%20es%20el%20mejor%20camino/)  
 7.L [Repartiendo paquetes](./Tema%207%20Digrafos%20valorados%20y%20caminos%20minimos/7.L%20Repartiendo%20paquetes/)  
 
-### [Semana 8 Algoritmos voraces](./Tema%208%20y%209%20Algoritmos%20voraces/)  
+### [Semanas 8 y 9 Algoritmos voraces](./Tema%208%20y%209%20Algoritmos%20voraces/)  
 8.1 [Agujeros en la manguera](.//Tema%208%20y%209%20Algoritmos%20voraces/8.1%20Agujeros%20en%20la%20manguera/)  
 8.2 [¡Nos invaden!](./Tema%208%20y%209%20Algoritmos%20voraces/8.2%20Nos%20invaden/)  
 8.3 [Comienza la temporada](./Tema%208%20y%209%20Algoritmos%20voraces/8.3%20Comienza%20la%20temporada/)  
 8.4 [Maraton de cine de terror](./Tema%208%20y%209%20Algoritmos%20voraces/8.4%20Maraton%20de%20cine%20de%20terror/)  
 8.L [Planificacion de conferencias](./Tema%208%20y%209%20Algoritmos%20voraces/8.L%20Planificacion%20de%20conferencias/)  
+9.1 [¡En primera línea de playa!](./Tema%208%20y%209%20Algoritmos%20voraces/9.1%20¡En%20primera%20linea%20de%20playa!/)  
+9.2 [El alienígena infiltrado](./Tema%208%20y%209%20Algoritmos%20voraces/9.2%20El%20alienigena%20infiltrado/)  
+9.3 [Carreras de coches](./Tema%208%20y%209%20Algoritmos%20voraces/9.3%20Carreras%20de%20coches/)  
+9.4 [Telesillas](./Tema%208%20y%209%20Algoritmos%20voraces/9.4%20Telesillas/)  
+9.L [Necesitamos agua](./Tema%208%20y%209%20Algoritmos%20voraces/9.L%20Necesitamos%20agua/)  
 
+### [Semanas 10, 11 y 12 Programación Dinámica](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/)  
+A.1 [La cuerda de la cometa](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.1%20La%20cuerda%20de%20la%20cometa/)  
+A.2 [Construyendo dianas](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.2%20Construyendo%20dianas/)  
+A.3 [Esquivando las obras en los cruces](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.3%20Esquivando%20las%20obras%20en%20los%20cruces/)  
+A.4 [¿Por dónde hay que subir?](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.4%20Por%20dónde%20hay%20que%20subir/)  
+A.L [Cambio exacto](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.L%20Cambio%20exacto/)  
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
