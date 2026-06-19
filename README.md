@@ -72,6 +72,8 @@ A.2 [Construyendo dianas](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/
 A.3 [Esquivando las obras en los cruces](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.3%20Esquivando%20las%20obras%20en%20los%20cruces/)  
 A.4 [¿Por dónde hay que subir?](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.4%20Por%20dónde%20hay%20que%20subir/)  
 A.L [Cambio exacto](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.L%20Cambio%20exacto/)  
+B.1 [El cazatesoros](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.1%20El%20cazatesoros/)  
+
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
