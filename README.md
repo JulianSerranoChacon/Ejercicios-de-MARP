@@ -77,6 +77,7 @@ B.2 [Aibofobia](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.2%20Aibo
 B.3 [Nos vamos de concierto](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.3%20Nos%20vamos%20de%20concierto/)  
 B.4 [Las vacas pensantes](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.4%20Las%20vacas%20pensantes/)  
 B.5 [Seis grados de separación](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.5%20Seis%20grados%20de%20separación/)  
+B.L [La fiesta de graduación](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.L%20La%20fiesta%20de%20graduación/)  
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
