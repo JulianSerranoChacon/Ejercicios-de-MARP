@@ -73,6 +73,7 @@ A.3 [Esquivando las obras en los cruces](./Tema%2010,%2011%20y%2012%20Programaci
 A.4 [¿Por dónde hay que subir?](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.4%20Por%20dónde%20hay%20que%20subir/)  
 A.L [Cambio exacto](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/A.L%20Cambio%20exacto/)  
 B.1 [El cazatesoros](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.1%20El%20cazatesoros/)  
+B.2 [Aibofobia](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.2%20Aibofobia/)  
 
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
