@@ -80,6 +80,8 @@ B.5 [Seis grados de separación](./Tema%2010,%2011%20y%2012%20Programación%20di
 B.L [La fiesta de graduación](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/B.L%20La%20fiesta%20de%20graduación/)  
 C.1 [El carpintero Ebanisto](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.1%20El%20carpintero%20Ebanisto/)  
 C.2 [Cine romantico a raudales](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.2%20Cine%20romantico%20a%20raudales/)  
+C.3 [Mejor no llevar muchas monedas](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.3%20Mejor%20no%20llevar%20muchas%20monedas/)  
+
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
