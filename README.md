@@ -82,6 +82,7 @@ C.1 [El carpintero Ebanisto](./Tema%2010,%2011%20y%2012%20Programación%20dinami
 C.2 [Cine romantico a raudales](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.2%20Cine%20romantico%20a%20raudales/)  
 C.3 [Mejor no llevar muchas monedas](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.3%20Mejor%20no%20llevar%20muchas%20monedas/)  
 C.4 [Volando entre pivotes](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.4%20Volando%20entre%20pivotes/)  
+C.L [Oposiciones a notaria](./Tema%2010,%2011%20y%2012%20Programación%20dinamica/C.L-Oposiciones%20a%20notaria/)  
 
 ## Ejercicios-de-MARP WRONG-ANSWER  
 
